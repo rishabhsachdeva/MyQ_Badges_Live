@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\816d70dce702042a60bfd6d74313d46570b10480\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_58d4f37fdcb31ee47ef9dc63a79348f11f6bd16f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\c566d95b531899cc051d07130e3baf4b69874d63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_484495e4a5502e19edd484c24439cf21276fa249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\bb5567a3586660991034e4f31947fdcdcb7eb915\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_71ab27d0a2bebbe4658f822bdb947ef41a4ab32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\b0046c363bbcf1201c968b8728a8238b208736fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_660639650f242c14be414df16066bac12ecb68f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\dc71836ed5624eeae93a4dc52699bbd8b135bc85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_248d3b844a13accd92acb88082feb6a4b64a24e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\52d437aecfc89073d6a5d64ca1c7b8d962229fbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_64928578cbc135bdefae9b059dcb702fab70fde7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\c9aa862e8e0f8005ca1a19478fc6fdefec37f1f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_fd6a17173f5bbb0f47b3a2c76d5a4c9fe978b0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2fdfcae8312143ed305c52fb649165322b0a1dc">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_7b278b19ba20f98ab25a66732d0f5680bea5601a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\23e3edcd1ab519065a2940beaed861cda63a8c66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_e5813ac9a7d28c93e42a3b1d5d7fd7ef82291fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\60ef11961170b3e4aaa2bcf6a18f8b564bbb78be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_e2f06bf99ffd5b07906594cfc5ce2276af708b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8334b3f2239884344491b23fe3da6fd9c2ef89e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_3b2261fb2f03ee8a19fe5748925ca18a582bbbe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\b65c5809c5429dd6b5f3c7b066ac91d05da36716\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_258e3255344070a93ff25d3575970f28f22db450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\e577209e561e228fbd7231f9460f4bb256057828\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_dea05fbcc0e42f86b9aa3d7b50c6cc9ea9c326bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\63dc6963e897bb8c49c4b901be4d7a94122dc7f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\pre-dexed\debug\classes_36428e1afb60661f5e331e73be6922b56ef0aaa3.jar" />
+    </item>
+
+</items>
